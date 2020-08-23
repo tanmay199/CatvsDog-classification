@@ -1,0 +1,1 @@
+I will be using Convolutional Neural Network to classify whether a given image contains a Cat or a Dog. We can use the tensorflow package for this implementation. The Cats and Dogs dataset from the famous Kaggle contest which is filtered and available at tensorflow is used.
